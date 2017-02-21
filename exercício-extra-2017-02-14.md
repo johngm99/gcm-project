@@ -111,6 +111,7 @@ Apesar de muitos novos recursos, 2.4.x tende a usar menos memória do que 2.2.x.
 NGINX - RELEASES:
 
 
+
 Changes with nginx 1.11.10                                       14 Feb 2017
 
     *) Change: cache header format has been changed, previously cached
@@ -7848,6 +7849,7 @@ Changes with nginx 0.1.1                                         11 Oct 2004
 Changes with nginx 0.1.0                                         04 Oct 2004
 
     *) The first public version.
+
 
 ##########################################################################
 ##########################################################################
