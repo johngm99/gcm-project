@@ -7861,3 +7861,116 @@ Changes with nginx 0.1.0                                         04 Oct 2004
 WordPress - RELEASES: 
 
 - Version - 0.70 - Tinha a mesma estrutura do seu predecessor, b2/cafelog. Só é possível baixar a versão 0.71-gold no site oficial.
+
+
+- Version - 1.0 - Foi adicionado a possibilidade de criar o próprio tipo de URL amigável e juntamente o nome da categoria. Foi criado o arquivo rápido de de configuração wp-config.php. O administrador agora pode moderar, configurar e aprovar os comentários antes se serem publicados no blog. Foi adicionado suporte a XFN e assinaturas atom.
+
+
+- Version - 1.2 -	O mais importante foi a introdução ao suporte de plugins. Ainda hoje ainda é usado a mesma estrutura de cabeçalhos para os plugins.
+
+
+- Version - 1.5 - Strayhorn trouxe uma grande quantidade de atualizações vitais, como a criação de páginas estáticas e de temas/design. Assim como veio com um tema padrão incluído (codinome Kubrick) criado por Michael Heilemann.
+
+
+- Version - 2.0 - Nesta versão veio o editor WYSIWYG, uma grande melhora nas ferramentas de administração, o upload de imagens, melhora na velocidade do sistema, mudanças na forma de importar informações, e uma completa revisão do BackEnd. No WordPress 2.0 também veio com uma grande variedade de informações para os desenvolvedores de plugins.
+
+
+- Version - 2.1 -	Além das correções de segurança, esta versão trouxe um re-design da interface, melhorando o painel de edição com a auto correção e o auto-save, e uma melhora nas opções de administração.
+
+
+- Version - 2.2 -	Na versão 2.2 veio o tão esperado suporte para widgets em temas, e uma mudança no feed Atom, e uma substancial melhora de velocidade.
+
+
+- Version - 2.3 - Na versão 2.3 tivemos como principal adição o suporte nativo a tags, um novo sistema de categorias e uma melhora das notificações de atualizações. Nesta versão também foi incluído o suporte completo ao Atom 1.0, junto com o protocolo de publicação e incluiu algumas correções de segurança, já muito necessárias.
+
+
+- Version - 2.5 - Foi decidido pelos desenvolvedores pular a versão 2.4, logo a versão 2.5 veio com duas atualizações importantes. Novamente um completo re-design da adminstração e o site do WordPress também ganhou uma completa modificação para acompanhar o estilo.
+
+
+- Version - 2.6 - Tyner veio com poderosas ferramentas que ajudaram a tornar o WordPress mais CMS, agora você pode Criar revisões para cada um dos artigos que são criados, tornando fácil voltar para uma versão anterior do artigo se necessário.
+
+
+- Version - 2.7 - De novo vemos mais um re-design do administração. Juntamente com a introdução da atualização automática de plugin pela administração.
+
+
+- Version - 2.8 - Baker trouxe melhoras na velocidade, e a instalação de temas direto da administração. Trouxe também uma modificação para a melhor edição de arquivos pela administração e uma completa reestruturação da API dos Widgets.
+
+
+- Version - 2.9 - Carmen trouxe uma estrutura de lixeira, um editor de imagens , atualização em massa de plugins, e uma grande quantidade de novas funções para os desenvolvedores.
+
+
+- Version - 3.0 - Thelonius trouxe um novo tema padrão chamado "Twenty Ten". A versão marca a fusão do Wordpress com o Wordpress MU, permitindo a existência de vários blogs em uma única instalação. Nesta versão, também foram corrigidos mais de 1200 bugs.
+
+
+- Version - 3.1 - Reinhardt teve como novidade mais notória a adição da Admin Bar, a qual aparece em todas as páginas do blog quando o administrador está conectado. Trouxe maior facilidade de acesso a funções críticas, tal como comentários e atualizações, além de melhoria nas capacidades das ligações internas, entre outras.
+
+- Version - 3.2 - Gershwin teve como principal objectivo tornar o WordPress mais rápido e leve.
+
+
+- Version - 3.3 - Sonny tem como principais objectivos tornar o WordPress mais amigável para principiantes e para utilizadores de tablet PC Nesta versão também lançou-se um importador especial para Tumblr.
+
+
+- Version - 3.4 -	Green pretende facilitar a personalização de temas e cabeçalhos, de embeds do Twitter e das legendas de imagens.
+
+
+- Version - 3.5 -	Suporte para Tela retina, seletor de cores mais intuitivo, novo tema: Twenty Twelve.
+
+
+- Version - 3.6 -	Um novo tema, Twenty Thirteen, preparado para apresentar os conteúdos de forma rica e com muitas cores. O editor de Menus está mais simples de entender e de usar. No editor, cada pequena alteração é salva, sendo possível restaurar de forma simples e rápida.
+
+
+- Version - 3.7 - Foram adicionadas atualizações automáticas para a manutenção e atualizações de segurança. No momento de criar uma nova senha, a recomendação é mais interativa com o usuário. Um melhor suporte global para traduções com a ajuda da comunidade mundial também está melhor.
+
+
+- Version - 3.8 - Traz um novo visual para todo o painel de administração. Longe vão os gradientes e dezenas de tons de cinza. Traz em um maior, mais ousado design, mais colorido com quatro cores opcionais para o painel administrativo: Cinza, Verde, Lilás e Azul. O painel também adapta-se a qualquer resolução de tela. A busca por temas ficou ainda mais interativa com o usuário, e no simples digitar o tema é pesquisado no Wordpress.org. E para simbolizar o novo visual, o tema Twenty Fourteen foi adicionado ao padrão de instalação do WordPress.
+
+
+- Version - 3.9 - Novos recursos como pré-visualização de widgets ao vivo e o novo instalador tema são agora estão melhores. Refinamentos de interface do usuário ao editar imagens e quando se trabalha com mídia no editor. Também trouxe de volta algumas das configurações avançadas de visualização das imagens. Se você quiser testar playlists de áudio e vídeo, os links vão aparecer no gerenciador de mídia, uma vez que você carregou um arquivo de áudio ou vídeo. Para os desenvolvedores de tema, foram adicionados suporte HTML5. A função de formatação que transforma citações diretas em citações inteligentes (entre outras coisas) sofreu algumas mudanças para acelerá-lo drasticamente.
+
+
+- Version - 4.0 -	É possível explorar os uploads em uma visualização lado a lado. Uma nova tela de detalhes, torna a visualização e edição de qualquer quantidade de mídia na sequência. Colando uma URL do YouTube em uma nova linha, ele se transforma em um vídeo incorporado. A escrita e edição ficou mais simples e mais objetiva, com um editor que se expande para ajustar o seu conteúdo durante a escrita, e mantém as ferramentas de formatação disponíveis em todos os momentos. Existem mais de 30.000 plugins livres e abertos no repositório oficial de plugins do WordPress e a versão 4.0 deixa mais fácil a busca por eles, com novas métricas, pesquisa melhorada, e uma experiência de navegação mais visual, exibindo o ícone do plugin. Na instalação, agora é possível escolher o idioma, e em seguida ocorre o download dos arquivos de tradução. A variável wp_lang que define a linguagem a ser usada pelo software, foi descontinuada e agora o usuário pode escolher o idioma no próprio painel em Configurações > Gerais.
+
+
+- Version - 4.1 - Com um mais novo tema padrão, o Twenty Fifteen, é um tema com foco em blogs desenhado para maior clareza. Conta com uma tipografia descomplicada e legível em qualquer tamanho de tela. Quando se começa a digitar no editor, todas as distrações como barra lateral e botões desaparecerem, permitindo que se concentre somente no texto e todas ferramentas de edição retornam quando se precisar delas. Agora conta com 44 idiomas e o usuário pode escolher a qualquer momento qual deles usar. Também é possível o usuário desconectar-se de qualquer máquina que esteja logado no momento, exceto a que esteja utilizando. Foi incorporado a função de inserir vídeos do Vine colando apenas a sua URL no editor. O instalador de plugins sugere plugins para o usuário, as recomendações são baseadas nos plugins que se usa e outros usuários instalaram.
+
+
+- Version - 4.2 - A ferramenta Publique isso foi melhorada. Foi adicionado suporte a vários novos caracteres, incluindo caracteres nativos chineses, japoneses e coreanos, símbolos musicais e matemáticos, e hieróglifos. O recurso "Personalizar" também foi melhorado, pode-se navegar e visualizar os temas instalados facilmente e ativar somente quando tudo estiver configurado. Foi adicionado suporte a incorporação dos sites Tumblr e Kickstarter. Atualização disponível de Plugin agora é feita de forma silenciosa, não mais recarregando a página.
+
+
+- Version - 4.3 - As novas funcionalidades facilitam ainda mais a formatação do conteúdo e a personalização do site. Agora, é possível editar os menus dentro Personalizar e que este, ficou mais interativo com um ícone exibido na barra de administração. Além dos menus, também é possível inserir um ícone a ser exibido na guia do navegador, tudo ao vivo. Foram adicionados atalhos no editor de texto WYSIWYG. Na segurança, ao adicionar novos usuários ao site ou quando editar um perfil, o WordPress automaticamente gerará uma senha segura. Por padrão, agora as páginas não estarão habilitadas a permitir comentários.
+
+
+- Version - 4.4 - Foi adicionado o novo tema padrão, chamado de Twenty Sixteen. Foi criado um novo modo de trabalhar com imagens responsivas utilizando o atributo srcset na tag img, com HTML5. Com isso, o servidor pode escolher qual imagem carregar. Agora é possível anexar posts de outros sites WordPress, apenas colando a url do post no editor. A REST API foi incluída ao core do sistema e os termos passam a poder ter metadados de forma mais simples. Foi adicionado a classe WP_Network que faz surgir a função_network_option que facilita o uso de diversas redes de sites. O Personalizar foi melhorado, buscando melhoria na rapidez e recursos de memória.
+
+
+- Version - 4.5 -	Mantenha-se focado em sua escrita com uma interface menos distração que o mantém no lugar e permite ligar facilmente ao seu conteúdo. Você gosta de usar atalhos de formatação para listas e títulos? Agora eles estão ainda mais útil, com linhas horizontais e code. Verifique se o seu site parece grande em todas as telas! Pré-visualização celular, tablet, e vistas de desktop diretamente no customizador. Temas pode agora suportar logotipos para sua empresa ou marca. Experimente-o com vinte dezesseis e vinte Quinze na seção Site Identidade do customizador.Imagens geradas agora carregar até 50% mais rápido, sem perda de qualidade perceptível. O personalizador de agora suporta um quadro abrangente para a prestação de partes da pré-visualização sem reescrever seu código PHP em JavaScript. Melhor foi adicionado suporte para o script de dependências de cabeçalho / rodapé. New wp_add_inline_script() permite a adição de código extra a scripts registrados. Modelos incorporam foram divididos em partes e pode ser diretamente substituído por temas através da hierarquia do modelo. jQuery 1.12.3, jQuery Migrate 1.4.0, 1.2.3 Backbone e sublinhado 1.8.3 são empacotados.
+
+
+- Version - 4.6 -	Agora tanto os plugins e temas podem ser instalados, atualizados ou excluídos sem recarregar a página. O painel do WordPress agora aproveita as fontes que ousuário já tem, tornando o carregamento mais rápido. O editor verifica automaticamente erros acidentais nos links criados pelo usuário e também salva no navegador tudo que é digitado, permitindo recuperação a qualquer momento. 
+
+
+- Version - 4.7 -	Foi adicionado o tema padrão Twenty Seventeen, que trabalha com cabeçalhos em vídeo e este mesmo recurso pode ser usado em outros layouts. Agora o usuário pode personalizar enquanto instala o sistema. Na demonstração ao vivo, foi adicionado atalhos em secções do layout para facilitar a edição destes. Pode ser criado páginas diretamente enquanto se cria menus. Uma ótima ferramente que foi adicionada é o CSS customizado, onde o usuário pode adicionar seus próprios estilos diretamente no site, sem relação direta com o tema ativo. Para quem gosta de publicar arquivos PDF, agora é possível ver em miniaturas na galeria. Para quem gosta de utilizar multi idiomas, foi adicionada a possibilidade de ter vários idiomas que o usuário pode escolher ao utilizar o painel do WordPress.
+
+
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+
+Bibliografia:
+
+- https://httpd.apache.org/docs/2.0/
+- https://httpd.apache.org/docs/2.0/new_features_2_0.html#page-header
+- https://httpd.apache.org/docs/2.2/new_features_2_2.html
+- https://httpd.apache.org/docs/2.4/new_features_2_4.html
+- http://nginx.org/en/CHANGES
+- https://pt.wikipedia.org/wiki/WordPress
+
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
+##########################################################################
